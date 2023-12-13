@@ -1,0 +1,2312 @@
+[
+    [
+        "text_1",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Plot": "positive",
+            "Characters": "positive",
+            "Emotional Impact": "positive",
+            "Visual Effects": "positive",
+            "Direction": "positive"
+        }
+    ],
+    [
+        "text_2",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Emotional Impact": "positive",
+            "Plot": "positive",
+            "Characters": "positive"
+        }
+    ],
+    [
+        "text_3",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Emotional Impact": "positive",
+            "Ending/Resolution": "positive"
+        }
+    ],
+    [
+        "text_4",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive",
+            "Plot": "positive"
+        }
+    ],
+    [
+        "text_5",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Characters": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_6",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive",
+            "Cultural Representation": "positive"
+        }
+    ],
+    [
+        "text_7",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Emotional Impact": "positive",
+            "Direction": "positive",
+            "Ending/Resolution": "positive"
+        }
+    ],
+    [
+        "text_8",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Originality": "positive",
+            "Plot": "neutral"
+        }
+    ],
+    [
+        "text_9",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Humor": "neutral",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_10",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_11",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Plot": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_12",
+        {
+            "overall": "negative",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_13",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive",
+            "Ending/Resolution": "positive"
+        }
+    ],
+    [
+        "text_14",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Originality": "positive",
+            "Emotional Impact": "positive",
+            "Pacing": "neutral"
+        }
+    ],
+    [
+        "text_15",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive",
+            "Plot": "negative",
+            "Soundtrack/Music": "positive"
+        }
+    ],
+    [
+        "text_16",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Characters": "positive"
+        }
+    ],
+    [
+        "text_17",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Cinematography": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_18",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_19",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_20",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "Originality": "positive",
+            "Visual Effects": "positive",
+            "Plot": "negative"
+        }
+    ],
+    [
+        "text_21",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Humor": "positive",
+            "Characters": "positive"
+        }
+    ],
+    [
+        "text_22",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "Cultural Representation": "positive",
+            "Originality": "positive"
+        }
+    ],
+    [
+        "text_23",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Emotional Impact": "positive",
+            "Direction": "positive",
+            "Genre Suitability": "positive"
+        }
+    ],
+    [
+        "text_24",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Cinematography": "positive",
+            "Emotional Impact": "positive",
+            "Pacing": "positive"
+        }
+    ],
+    [
+        "text 26",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "Cinematography": "positive"
+        }
+    ],
+    [
+        "text 27",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "Genre Suitability": "negative",
+            "Plot": "negative",
+            "Humor": "negative"
+        }
+    ],
+    [
+        "text 28",
+        {
+            "overall": "negative",
+            "contains_spoilers": true,
+            "Cinematography": "positive",
+            "Visual Effects": "positive",
+            "Pacing": "negative",
+            "Originality": "negative",
+            "Emotional Impact": "neutral"
+        }
+    ],
+    [
+        "text 29",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Direction": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text 30",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "Plot": "negative"
+        }
+    ],
+    [
+        "text 31",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text 32",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "Plot": "neutral",
+            "Humor": "neutral"
+        }
+    ],
+    [
+        "text 33",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Direction": "positive",
+            "Emotional Impact": "positive",
+            "Cultural Representation": "positive"
+        }
+    ],
+    [
+        "text 34",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive",
+            "Originality": "positive"
+        }
+    ],
+    [
+        "text 35",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text 36",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "Emotional Impact": "positive",
+            "Personal Experience": "positive"
+        }
+    ],
+    [
+        "text 37",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive",
+            "Originality": "positive"
+        }
+    ],
+    [
+        "text 38",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text 39",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive",
+            "Social Commentary": "positive"
+        }
+    ],
+    [
+        "text 40",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Direction": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text 41",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text 42",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Soundtrack/Music": "positive",
+            "Emotional Impact": "positive",
+            "Originality": "positive"
+        }
+    ],
+    [
+        "text 43",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Plot": "neutral",
+            "Soundtrack/Music": "positive",
+            "Emotional Impact": "positive",
+            "Personal Experience": "positive"
+        }
+    ],
+    [
+        "text 44",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive",
+            "Social Commentary": "positive"
+        }
+    ],
+    [
+        "text 45",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "Plot": "negative"
+        }
+    ],
+    [
+        "text 46",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Cinematography": "positive",
+            "Acting": "positive"
+        }
+    ],
+    [
+        "text 47",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text 48",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Cinematography": "positive",
+            "Emotional Impact": "positive",
+            "Originality": "positive"
+        }
+    ],
+    [
+        "text 49",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Direction": "positive",
+            "Personal Experience": "positive"
+        }
+    ],
+    [
+        "text 50",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "Direction": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_51",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Direction": "positive",
+            "Originality": "positive",
+            "Emotional Impact": "neutral"
+        }
+    ],
+    [
+        "text_52",
+        {
+            "Overall": "neutral",
+            "contains_spoilers": false,
+            "Originality": "positive",
+            "Humor": "positive"
+        }
+    ],
+    [
+        "text_53",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true,
+            "Plot": "negative",
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_54",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_55",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Cinematography": "positive",
+            "Direction": "positive",
+            "Originality": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_56",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Originality": "positive"
+        }
+    ],
+    [
+        "text_57",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true,
+            "Direction": "positive",
+            "Emotional Impact": "positive",
+            "Ending/Resolution": "positive"
+        }
+    ],
+    [
+        "text_58",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Visual Effects": "positive",
+            "Originality": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_59",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_60",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Originality": "positive",
+            "Emotional Impact": "positive",
+            "Genre Suitability": "positive"
+        }
+    ],
+    [
+        "text_61",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true,
+            "Direction": "positive",
+            "Emotional Impact": "positive",
+            "Social Commentary": "positive"
+        }
+    ],
+    [
+        "text_62",
+        {
+            "Overall": "neutral",
+            "contains_spoilers": true,
+            "Plot": "negative",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_63",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Cinematography": "positive",
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_64",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Direction": "positive",
+            "Emotional Impact": "positive",
+            "Ending/Resolution": "positive"
+        }
+    ],
+    [
+        "text_65",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true,
+            "Soundtrack/Music": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_66",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_67",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_68",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Direction": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_69",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true,
+            "Plot": "positive",
+            "Emotional Impact": "positive",
+            "Cultural Representation": "positive"
+        }
+    ],
+    [
+        "text_70",
+        {
+            "Overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_71",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_72",
+        {
+            "Overall": "positive",
+            "contains_spoilers": false,
+            "Plot": "positive",
+            "Visual Effects": "positive",
+            "Genre Suitability": "positive"
+        }
+    ],
+    [
+        "text_73",
+        {
+            "Overall": "neutral",
+            "contains_spoilers": false,
+            "Cinematography": "positive",
+            "Soundtrack/Music": "neutral"
+        }
+    ],
+    [
+        "text_74",
+        {
+            "Overall": "positive",
+            "contains_spoilers": true,
+            "Visual Effects": "positive",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_75",
+        {
+            "Overall": "neutral",
+            "contains_spoilers": true,
+            "Plot": "negative",
+            "Emotional Impact": "positive"
+        }
+    ],
+    [
+        "text_76",
+        {
+            "acting": "positive",
+            "plot": "neutral",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "pacing": "neutral",
+            "ending/resolution": "negative",
+            "overall": "neutral",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_77",
+        {
+            "plot": "negative",
+            "originality": "negative",
+            "direction": "negative",
+            "overall": "negative",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_78",
+        {
+            "plot": "neutral",
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_79",
+        {
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_80",
+        {
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "originality": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_81",
+        {
+            "plot": "neutral",
+            "genre suitability": "neutral",
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_82",
+        {
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_83",
+        {
+            "genre suitability": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_84",
+        {
+            "cinematography": "positive",
+            "plot": "neutral",
+            "emotional impact": "positive",
+            "pacing": "neutral",
+            "ending/resolution": "positive",
+            "overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_85",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "genre suitability": "neutral",
+            "humor": "positive",
+            "ending/resolution": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_86",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_87",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_88",
+        {
+            "plot": "negative",
+            "emotional impact": "positive",
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_89",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "direction": "positive",
+            "pacing": "neutral",
+            "ending/resolution": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_90",
+        {
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_91",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_92",
+        {
+            "plot": "neutral",
+            "direction": "positive",
+            "pacing": "positive",
+            "humor": "positive",
+            "ending/resolution": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_93",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "cultural representation": "positive",
+            "social commentary": "positive",
+            "ending/resolution": "positive",
+            "overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_94",
+        {
+            "emotional impact": "negative",
+            "overall": "negative",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_95",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "humor": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_96",
+        {
+            "acting": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_97",
+        {
+            "plot": "neutral",
+            "direction": "positive",
+            "pacing": "neutral",
+            "humor": "positive",
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_98",
+        {
+            "plot": "positive",
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_99",
+        {
+            "plot": "neutral",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_100",
+        {
+            "plot": "negative",
+            "cinematography": "neutral",
+            "direction": "negative",
+            "emotional impact": "negative",
+            "originality": "positive",
+            "overall": "negative",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_101",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "characters": "positive",
+            "emotional impact": "positive",
+            "dialogue": "neutral",
+            "cinematography": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_102",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "characters": "positive",
+            "dialogue": "positive",
+            "visual effects": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_103",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_104",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "cinematography": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_105",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "characters": "positive",
+            "plot": "positive",
+            "dialogue": "positive",
+            "emotional impact": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text_106",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_107",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_108",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_109",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text_110",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text_111",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "emotional impact": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_112",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "humor": "positive"
+        }
+    ],
+    [
+        "text_113",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "characters": "positive",
+            "originality": "positive",
+            "emotional impact": "positive",
+            "cultural representation": "positive"
+        }
+    ],
+    [
+        "text_114",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_115",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_116",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "originality": "neutral"
+        }
+    ],
+    [
+        "text_117",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "visual effects": "positive"
+        }
+    ],
+    [
+        "text_118",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text_119",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "pacing": "negative"
+        }
+    ],
+    [
+        "text_120",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text_121",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "emotional impact": "positive",
+            "characters": "positive"
+        }
+    ],
+    [
+        "text_122",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "visual effects": "positive",
+            "originality": "positive",
+            "direction": "positive"
+        }
+    ],
+    [
+        "text_123",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "plot": "neutral",
+            "originality": "neutral"
+        }
+    ],
+    [
+        "text_124",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text_125",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "originality": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 126",
+        {
+            "overall": "neutral",
+            "contains_spoilers": true,
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text 127",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "genre suitability": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 128",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "plot": "negative"
+        }
+    ],
+    [
+        "text 129",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "cinematography": "positive",
+            "originality": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 130",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "genre suitability": "negative"
+        }
+    ],
+    [
+        "text 131",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "acting": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 132",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "acting": "negative"
+        }
+    ],
+    [
+        "text 133",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 134",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "cinematography": "positive"
+        }
+    ],
+    [
+        "text 135",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "cinematography": "positive"
+        }
+    ],
+    [
+        "text 136",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "personal enjoyment": "negative"
+        }
+    ],
+    [
+        "text 137",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "cultural representation": "positive"
+        }
+    ],
+    [
+        "text 138",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "personal enjoyment": "positive"
+        }
+    ],
+    [
+        "text 139",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 140",
+        {
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 141",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "cinematography": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 142",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "personal enjoyment": "negative",
+            "dialogue": "negative",
+            "pacing": "negative",
+            "humor": "negative"
+        }
+    ],
+    [
+        "text 143",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "plot": "negative",
+            "cinematography": "negative",
+            "cultural representation": "negative",
+            "originality": "negative",
+            "emotional impact": "negative"
+        }
+    ],
+    [
+        "text 144",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "cinematography": "positive",
+            "originality": "positive",
+            "personal enjoyment": "positive"
+        }
+    ],
+    [
+        "text 145",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "personal enjoyment": "positive"
+        }
+    ],
+    [
+        "text 146",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "direction": "positive",
+            "emotional impact": "positive",
+            "personal enjoyment": "positive"
+        }
+    ],
+    [
+        "text 147",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "direction": "positive",
+            "emotional impact": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text 148",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "visual effects": "positive",
+            "humor": "positive",
+            "personal enjoyment": "positive"
+        }
+    ],
+    [
+        "text 149",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "personal enjoyment": "positive",
+            "cultural representation": "positive"
+        }
+    ],
+    [
+        "text 150",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive",
+            "personal enjoyment": "positive"
+        }
+    ],
+    [
+        "text 151",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "originality": "neutral",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 152",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "characters": "positive",
+            "dialogue": "neutral",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 153",
+        {
+            "overall": "neutral",
+            "contains_spoilers": true,
+            "plot": "neutral",
+            "characters": "neutral",
+            "dialogue": "neutral",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "pacing": "negative",
+            "emotional impact": "neutral",
+            "genre suitability": "neutral",
+            "originality": "neutral"
+        }
+    ],
+    [
+        "text 154",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "plot": "neutral",
+            "characters": "neutral",
+            "dialogue": "neutral",
+            "cinematography": "positive",
+            "emotional impact": "neutral"
+        }
+    ],
+    [
+        "text 155",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text 156",
+        {
+            "overall": "neutral",
+            "contains_spoilers": true,
+            "dialogue": "neutral",
+            "pacing": "neutral",
+            "humor": "positive",
+            "ending/resolution": "neutral"
+        }
+    ],
+    [
+        "text 157",
+        {
+            "overall": "neutral",
+            "contains_spoilers": true,
+            "plot": "neutral",
+            "pacing": "neutral",
+            "emotional impact": "neutral"
+        }
+    ],
+    [
+        "text 158",
+        {
+            "overall": "neutral",
+            "contains_spoilers": true,
+            "acting": "negative",
+            "soundtrack/music": "positive",
+            "emotional impact": "neutral"
+        }
+    ],
+    [
+        "text 159",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 160",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "plot": "positive",
+            "genre suitability": "positive",
+            "originality": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 161",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "plot": "positive",
+            "cinematography": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 162",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "dialogue": "neutral",
+            "humor": "positive",
+            "ending/resolution": "positive"
+        }
+    ],
+    [
+        "text 163",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "cinematography": "positive"
+        }
+    ],
+    [
+        "text 164",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "originality": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 165",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "soundtrack/music": "positive"
+        }
+    ],
+    [
+        "text 166",
+        {
+            "overall": "negative",
+            "contains_spoilers": false,
+            "plot": "negative",
+            "emotional impact": "neutral"
+        }
+    ],
+    [
+        "text 167",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "plot": "neutral",
+            "pacing": "neutral"
+        }
+    ],
+    [
+        "text 168",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 169",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false,
+            "plot": "negative",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 170",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "humor": "positive",
+            "ending/resolution": "positive"
+        }
+    ],
+    [
+        "text 171",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 172",
+        {
+            "overall": "positive",
+            "contains_spoilers": true,
+            "plot": "positive",
+            "characters": "positive",
+            "dialogue": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 173",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "characters": "positive",
+            "dialogue": "neutral",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "originality": "positive"
+        }
+    ],
+    [
+        "text 174",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 175",
+        {
+            "overall": "positive",
+            "contains_spoilers": false,
+            "plot": "positive",
+            "characters": "positive",
+            "dialogue": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "originality": "positive",
+            "emotional impact": "positive"
+        }
+    ],
+    [
+        "text 176",
+        {
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 177",
+        {
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 178",
+        {
+            "plot": "negative",
+            "characters": "positive",
+            "direction": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 179",
+        {
+            "plot": "negative",
+            "characters": "neutral",
+            "pacing": "negative",
+            "ending/resolution": "positive",
+            "emotional impact": "positive",
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 180",
+        {
+            "humor": "negative",
+            "overall": "negative",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 181",
+        {
+            "plot": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text 182",
+        {
+            "plot": "positive",
+            "originality": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 183",
+        {
+            "visual effects": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text 184",
+        {
+            "humor": "negative",
+            "overall": "negative",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 185",
+        {
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 186",
+        {
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 187",
+        {
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 188",
+        {
+            "plot": "positive",
+            "humor": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 189",
+        {
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 190",
+        {
+            "visual effects": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 191",
+        {
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 192",
+        {
+            "plot": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 193",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 194",
+        {
+            "plot": "positive",
+            "originality": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 195",
+        {
+            "plot": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 196",
+        {
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 197",
+        {
+            "plot": "positive",
+            "originality": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 198",
+        {
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 199",
+        {
+            "plot": "positive",
+            "emotional impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 200",
+        {
+            "plot": "negative",
+            "emotional impact": "positive",
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 201",
+        {
+            "overall": "positive",
+            "plot": "neutral",
+            "characters": "positive",
+            "dialogue": "neutral",
+            "cinematography": "positive",
+            "direction": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 202",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "characters": "positive",
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 203",
+        {
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 204",
+        {
+            "overall": "neutral",
+            "plot": "negative",
+            "characters": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 205",
+        {
+            "overall": "negative",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text 206",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 207",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 208",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 209",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "cinematography": "positive",
+            "originality": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text 210",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "characters": "positive",
+            "cinematography": "positive",
+            "direction": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 211",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 212",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "cinematography": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 213",
+        {
+            "overall": "negative",
+            "plot": "negative",
+            "characters": "positive",
+            "visual effects": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text 214",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 215",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 216",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "direction": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 217",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "characters": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 218",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 219",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 220",
+        {
+            "overall": "positive",
+            "originality": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 221",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 222",
+        {
+            "overall": "positive",
+            "cinematography": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 223",
+        {
+            "overall": "positive",
+            "plot": "negative",
+            "cinematography": "positive",
+            "direction": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 224",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text 225",
+        {
+            "overall": "positive",
+            "plot": "positive",
+            "characters": "positive",
+            "cinematography": "positive",
+            "soundtrack/music": "positive",
+            "emotional impact": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_226",
+        {
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_227",
+        {
+            "plot": "neutral",
+            "characters": "positive",
+            "dialogue": "neutral",
+            "cinematography": "positive",
+            "direction": "negative",
+            "visual_effects": "positive",
+            "pacing": "negative",
+            "originality": "neutral",
+            "emotional_impact": "negative",
+            "overall": "negative",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_228",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "soundtrack_music": "positive",
+            "emotional_impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_229",
+        {
+            "plot": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_230",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "soundtrack_music": "positive",
+            "originality": "positive",
+            "emotional_impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_231",
+        {
+            "plot": "neutral",
+            "characters": "positive",
+            "originality": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_232",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "cinematography": "positive",
+            "visual_effects": "positive",
+            "pacing": "negative",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_233",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "cinematography": "positive",
+            "visual_effects": "positive",
+            "soundtrack_music": "positive",
+            "emotional_impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_234",
+        {
+            "plot": "neutral",
+            "overall": "neutral",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_235",
+        {
+            "plot": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_236",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "cinematography": "positive",
+            "soundtrack_music": "positive",
+            "pacing": "negative",
+            "emotional_impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_237",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "visual_effects": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_238",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "soundtrack_music": "positive",
+            "emotional_impact": "neutral",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ],
+    [
+        "text_239",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "soundtrack_music": "positive",
+            "visual_effects": "positive",
+            "pacing": "negative",
+            "overall": "positive",
+            "contains_spoilers": true
+        }
+    ],
+    [
+        "text_240",
+        {
+            "plot": "positive",
+            "characters": "positive",
+            "soundtrack_music": "positive",
+            "emotional_impact": "positive",
+            "overall": "positive",
+            "contains_spoilers": false
+        }
+    ]
+]

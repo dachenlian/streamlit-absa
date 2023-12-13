@@ -1,0 +1,520 @@
+[
+    [
+        "text_1",
+        {
+            "Investment Goal": "neutral",
+            "Costs": "neutral"
+        }
+    ],
+    [
+        "text_2",
+        {
+            "Investment Goal": "neutral"
+        }
+    ],
+    [
+        "text_3",
+        {
+            "Asset Allocation": "positive"
+        }
+    ],
+    [
+        "text_4",
+        {
+            "Investment Portfolio": "positive"
+        }
+    ],
+    [
+        "text_5",
+        {
+            "Investment Strategy": "positive"
+        }
+    ],
+    [
+        "text_6",
+        {
+            "Investment Strategy": "positive"
+        }
+    ],
+    [
+        "text_7",
+        {
+            "Investment Advice": "neutral"
+        }
+    ],
+    [
+        "text_8",
+        {
+            "Investment Advice": "neutral"
+        }
+    ],
+    [
+        "text_9",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "text_10",
+        {
+            "Asset Allocation": "negative"
+        }
+    ],
+    [
+        "text_11",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "text_12",
+        {
+            "Investment Advice": "neutral"
+        }
+    ],
+    [
+        "text_13",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "text_14",
+        {
+            "Investment Portfolio": "positive"
+        }
+    ],
+    [
+        "text_15",
+        {
+            "Risk Tolerance": "positive",
+            "Asset Allocation": "positive"
+        }
+    ],
+    [
+        "text_16",
+        {
+            "Investment Strategy": "negative"
+        }
+    ],
+    [
+        "text_17",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "text_18",
+        {
+            "Market Performance": "positive",
+            "Investment Strategy": "positive"
+        }
+    ],
+    [
+        "text_19",
+        {
+            "Investment Advice": "positive"
+        }
+    ],
+    [
+        "text_20",
+        {
+            "Investment Advice": "neutral"
+        }
+    ],
+    [
+        "text_21",
+        {
+            "Risk Tolerance": "negative"
+        }
+    ],
+    [
+        "text_22",
+        {
+            "Asset Allocation": "positive",
+            "Investment Strategy": "positive"
+        }
+    ],
+    [
+        "text_23",
+        {
+            "Company Performance": "positive"
+        }
+    ],
+    [
+        "text_24",
+        {
+            "Company Performance": "neutral"
+        }
+    ],
+    [
+        "text_25",
+        {
+            "Investment Strategy": "positive"
+        }
+    ],
+    [
+        "Text 26",
+        {
+            "Market Performance": "negative"
+        }
+    ],
+    [
+        "Text 27",
+        {
+            "Macroeconomic Indicators": "positive"
+        }
+    ],
+    [
+        "Text 28",
+        {
+            "Crisis Management": "neutral"
+        }
+    ],
+    [
+        "Text 29",
+        {
+            "Market Performance": "positive"
+        }
+    ],
+    [
+        "Text 30",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "Text 31",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "Text 32",
+        {
+            "Financial Stability": "neutral"
+        }
+    ],
+    [
+        "Text 33",
+        {
+            "Investment Recommendation": "positive"
+        }
+    ],
+    [
+        "Text 34",
+        {
+            "Investment Recommendation": "neutral"
+        }
+    ],
+    [
+        "Text 35",
+        {
+            "Investment Recommendation": "positive"
+        }
+    ],
+    [
+        "Text 36",
+        {
+            "Investment Recommendation": "neutral"
+        }
+    ],
+    [
+        "Text 37",
+        {
+            "Investment Recommendation": "neutral"
+        }
+    ],
+    [
+        "Text 38",
+        {
+            "Investment Strategy": "positive"
+        }
+    ],
+    [
+        "Text 39",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "Text 40",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "Text 41",
+        {
+            "Investment Recommendation": "positive"
+        }
+    ],
+    [
+        "Text 42",
+        {
+            "Investment Recommendation": "negative"
+        }
+    ],
+    [
+        "Text 43",
+        {
+            "Investment Recommendation": "positive"
+        }
+    ],
+    [
+        "Text 44",
+        {
+            "Investment Recommendation": "negative"
+        }
+    ],
+    [
+        "Text 45",
+        {
+            "Investment Recommendation": "neutral"
+        }
+    ],
+    [
+        "Text 46",
+        {
+            "Investment Recommendation": "neutral"
+        }
+    ],
+    [
+        "Text 47",
+        {
+            "Investment Strategy": "positive"
+        }
+    ],
+    [
+        "Text 48",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "Text 49",
+        {
+            "Investment Strategy": "neutral"
+        }
+    ],
+    [
+        "Text 50",
+        {
+            "Investment Strategy": "negative"
+        }
+    ],
+    [
+        "text_51",
+        {
+            "Market Performance": "neutral",
+            "Dividends and Buybacks": "positive"
+        }
+    ],
+    [
+        "text_52",
+        {
+            "Macroeconomic Indicators": "neutral",
+            "Market Performance": "negative"
+        }
+    ],
+    [
+        "text_53",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "text_54",
+        {
+            "Dividends and Buybacks": "positive",
+            "Market Performance": "negative"
+        }
+    ],
+    [
+        "text_55",
+        {
+            "Market Performance": "negative"
+        }
+    ],
+    [
+        "text_56",
+        {
+            "Dividends and Buybacks": "negative"
+        }
+    ],
+    [
+        "text_57",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "text_58",
+        {
+            "Debt and Financial Stability": "neutral"
+        }
+    ],
+    [
+        "text_59",
+        {
+            "Debt and Financial Stability": "neutral"
+        }
+    ],
+    [
+        "text_60",
+        {
+            "Market Performance": "negative"
+        }
+    ],
+    [
+        "text_61",
+        {
+            "Macroeconomic Indicators": "negative"
+        }
+    ],
+    [
+        "text_62",
+        {
+            "Market Performance": "negative"
+        }
+    ],
+    [
+        "text_63",
+        {
+            "Market Performance": "negative"
+        }
+    ],
+    [
+        "text_64",
+        {
+            "Earnings and Revenue": "negative"
+        }
+    ],
+    [
+        "text_65",
+        {
+            "Dividends and Buybacks": "positive"
+        }
+    ],
+    [
+        "text_66",
+        {
+            "Earnings and Revenue": "neutral",
+            "Dividends and Buybacks": "positive"
+        }
+    ],
+    [
+        "text_67",
+        {
+            "Earnings and Revenue": "neutral"
+        }
+    ],
+    [
+        "text_68",
+        {
+            "Competitor Analysis": "negative"
+        }
+    ],
+    [
+        "text_69",
+        {
+            "Competitor Analysis": "neutral"
+        }
+    ],
+    [
+        "text_70",
+        {
+            "Dividends and Buybacks": "neutral"
+        }
+    ],
+    [
+        "text_71",
+        {
+            "Dividends and Buybacks": "positive"
+        }
+    ],
+    [
+        "text_72",
+        {
+            "Market Performance": "positive"
+        }
+    ],
+    [
+        "text_73",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "text_74",
+        {
+            "Market Performance": "positive"
+        }
+    ],
+    [
+        "text_75",
+        {
+            "Dividends and Buybacks": "negative"
+        }
+    ],
+    [
+        "Text 76",
+        {
+            "Dividends and Buybacks": "neutral"
+        }
+    ],
+    [
+        "Text 77",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "Text 78",
+        {
+            "Market Performance": "positive"
+        }
+    ],
+    [
+        "Text 79",
+        {
+            "Market Performance": "positive"
+        }
+    ],
+    [
+        "Text 80",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "Text 81",
+        {
+            "Company Announcements": "positive"
+        }
+    ],
+    [
+        "Text 82",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "Text 83",
+        {
+            "Market Performance": "neutral"
+        }
+    ],
+    [
+        "Text 84",
+        {
+            "Company Announcements": "neutral"
+        }
+    ],
+    [
+        "Text 85",
+        {
+            "Market Performance": "neutral"
+        }
+    ]
+]
