@@ -27,12 +27,13 @@ GET_ABSA_MOVIE_PROMPT = Template(
 GET_ABSA_FINANCE_PROMPT = Template(
     "\n".join(
         [
-            "The following is a finance-related post on a discussion forum and its comments:\n",
+            "The following is a post on a discussion forum and its comments:\n",
             "${text}",
             "END OF POST.\n\n"
             "Perform aspect-based sentiment analysis (positive, neutral, negative) on the above post.\n\n",
             "If applicable to the post, choose aspects from the following:",
-            f"{', '.join(aspects.FINANCIAL_ASPECTS)}\n\n"
+            f"{', '.join(aspects.FINANCIAL_ASPECTS)}\n\n",
+            "If not applicable, you may choose other aspects that are more appropriate.\n\n",
             "Also include more personal aspects that may be helpful for potential investors, such as the performance of a particular company.\n\n",
             "Return a nested JSON object with the outer key being the index of the review, and the value being another JSON object with the aspect as the key and the sentiment as the value:\n",
             "The output should look like this:\n",
