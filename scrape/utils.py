@@ -7,7 +7,6 @@ from dotenv import load_dotenv, find_dotenv
 import jieba
 import openai
 import pandas as pd
-from nltk.corpus import stopwords
 import re
 import requests
 
@@ -77,7 +76,9 @@ def get_data(
         else:
             getter = get_imdb_reviews
         meta, output = getter(url)
-        stop = stopwords.words("english")
+
+        with open(BASE / "data/stopwords.txt", "r") as f:
+            stop = f.read().splitlines()
         title = meta.movie_title
         source = "movie"
         samples = [asdict(r) for r in output]
